@@ -1,0 +1,17 @@
+{
+  "name": "vencodeerensi",
+  "version": "0.0.1",
+  "main": "vencode.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "vendev_102",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "axios": "^1.7.7",
+    "discord.js": "^14.16.1",
+    "math-expression-evaluator": "^2.0.5",
+    "useful-tools": "^0.2.4"
+  }
+}
